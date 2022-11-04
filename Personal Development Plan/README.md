@@ -83,11 +83,16 @@ Q: How active should you be to get stakeholders and find new ones?
 
 - How can I prepare for behavioral questions
 - How can I stay motivated and not get distracted in daily tasks
-
-> Create your own deadlines and meet them
-> Add Jethro to Trello weekly board
-> List and prioritise jobs and tasks
-> Create StrengthsProfile
-
 - What are your tips for me to achieve my goals?
 - What are the key things I need to do to achieve my goals?
+
+Response tasks
+
+- [x] Create your own deadlines and meet them
+- [x] Add Jethro to Trello weekly board
+- [x] List and prioritise jobs and tasks
+- [x] Create StrengthsProfile
+
+## Follow up questions
+
+- What other options are there to hold me accountable for missing deadlines and targets that I have set for myself
