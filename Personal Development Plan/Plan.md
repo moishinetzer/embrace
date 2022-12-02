@@ -12,6 +12,7 @@
 - Making the world a better place
 - Helping people become the best they can be
 - Improving on myself
+- Seeking happiness
 
 > What are your key strengths
 
@@ -26,7 +27,7 @@
 - Developing myself to be the best I can be
 - Utilise all my strengths and grow them
 - Become CEO at my own company
-- High position at a large tech coropration
+- High position at a large tech corporation
 - Lead people and make their lives better
 - Give back to the world
 
@@ -93,3 +94,15 @@
 
 - Not meeting deadlines that are for personal development
 - Too many commitments
+
+---
+
+- Set daily tasks
+- Make sure to finish all
+- Check in with yourself should I - reevaluate what I'm doing
+- Prioritise Uni
+
+---
+
+- [] Work on Uni and prioritising that this week
+- [] Learn how to hold self accountable for progression

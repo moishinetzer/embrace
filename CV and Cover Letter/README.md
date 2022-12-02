@@ -10,7 +10,7 @@ Put all experiences in your skillpage(?)
 
 Create an excel sheet get all the jobs
 on the sheet - then reach out to the company
-you applied for, find the employees. 
+you applied for, find the employees.
 Reach out to them, network with them
 ask for advice how they got into the company
 am I a good fit for the role or company
@@ -23,7 +23,7 @@ Or ask for referalls
 
 - Honest and Authentic
 - Taylor per application!
-- Important for a bio 
+- Important for a bio
   - Couple of sentences, short punchy, not too long.
   - What youre looking for, i like doing xyz in my free time
   - Not too long
